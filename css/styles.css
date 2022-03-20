@@ -1,0 +1,44 @@
+.centro {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+
+}
+
+
+
+.ladoesquerdo {
+    background-image: url(/assets/image/mulher.png);
+    margin-top: 0;
+    width: 50%;
+    height: 600px;
+    display: solid;
+}
+
+.ladodireito {
+    background: white;
+    display: solid;
+    width: 50%;
+    height: 600px;
+    margin-top: 0;
+}
+
+.texto_down {
+
+    color: white;
+}
+
+.botao_android {
+
+    width: 20%;
+
+}
+
+
+.botao_ios {
+
+    width: 20%;
+
+}
