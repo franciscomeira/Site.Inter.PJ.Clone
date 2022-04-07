@@ -24,7 +24,7 @@
 .ladoesquerdo {
     background-image: url(/assets/image/mulher.png);
     width: 50%;
-    height: 600px;
+    height: 800px;
    
 
 }
@@ -53,7 +53,7 @@
 
 .conteudo_lado_esquerdo{
     
-    margin-top: 450px;
+    margin-top: 650px;
     margin-left: 30px;
 }
 
@@ -81,3 +81,42 @@
     margin-top: 40px;
     color: #6a6c72;
 }
+
+
+
+.botao_entrar {
+
+    margin-top: 50px;
+    width: 450px;
+    height: 40px;
+    border-radius: 7px;
+    background: #ff7a00;
+    border-style: none;
+    color: white;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    transition: 1s all;
+	cursor: pointer;
+    
+    
+}
+
+.botao_entrar:hover{
+
+
+    
+        background: darkorange;
+        transform: scale(1.2);
+    }
+
+
+
+.bt_entrar  {
+
+    
+    display: flex;
+    justify-content: center;
+
+}
+
