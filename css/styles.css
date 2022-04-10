@@ -41,10 +41,11 @@
     color: white;
     font-family: 'Inter', sans-serif;
     font-size: 14px;
+    
 }
 
 .botao_android {
-    
+    margin-top: 20px;
     width: 20%;
 }
 
