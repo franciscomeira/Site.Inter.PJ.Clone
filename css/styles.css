@@ -39,6 +39,8 @@
 
     
     color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
 }
 
 .botao_android {
@@ -68,6 +70,13 @@
     font-family: 'Inter', sans-serif;
     text-align: center;
     font-size: 27px;
+}
+
+
+.texto-ladodireito {
+
+    font-family: 'Inter', sans-serif;
+
 }
 
 
