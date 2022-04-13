@@ -1,2 +1,1 @@
-# Site.Inter.PJ.Clone
-Page Clone Site Inter PJ
+#  <img src="/assets/image/site.png" width="100%" alt="screen-shot"/>
